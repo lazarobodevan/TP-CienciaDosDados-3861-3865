@@ -1,4 +1,5 @@
 # TP-CienciaDosDados-3861-3865-3871
+<p> Lázaro Bodevan,  Igor Lucas e LArissa Isabelle. </p>
 <p>Tema escolhido: Cinema.</p>
 
 <p>Perguntas:
@@ -21,3 +22,5 @@
 <p>18- Qual a variação de produções do tipo "Festival" entre 2018 e 2020? Houve queda? Se sim, pode ter influência da pandemia?</p>
 <p>19- Qual a média de produções cuja língua não é inglês?</p>
 <p>20- Qual país produz maior quantidade de filmes com classificação indicativa para adultos? E o que menos produz?</p>
+
+<p> Link de Referência: https://datasets.imdbws.com/ </p>
