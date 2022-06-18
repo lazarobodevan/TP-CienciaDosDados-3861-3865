@@ -1,6 +1,6 @@
 # TP-CienciaDosDados-3861-3865-3871
 <p> Lázaro Bodevan,  Igor Lucas e LArissa Isabelle. </p>
-<p>Tema escolhido: Cinema.</p>
+<p>Tema escolhido: Saúde/Medicamentos.</p>
 
 <p>Perguntas:
 <p>1- Qual país região possui mais filmes cadastrados na IMDb?</p>
@@ -23,4 +23,6 @@
 <p>19- Qual a média de produções cuja língua não é inglês?</p>
 <p>20- Qual país produz maior quantidade de filmes com classificação indicativa para adultos? E o que menos produz?</p>
 
-<p> Link de Referência: https://datasets.imdbws.com/ </p>
+<p> Link de Referência: https://dados.gov.br/organization/1a04b59b-c243-40d8-95f8-5cf3e10e4aea?tags=Medicamento </p>
+[DADOS_ABERTOS_MEDICAMENTOS.csv](https://github.com/lazarobodevan/TP-CienciaDosDados-3861-3865-3871/files/8933978/DADOS_ABERTOS_MEDICAMENTOS.csv)
+[TA_PRECO_MEDICAMENTO.csv](https://github.com/lazarobodevan/TP-CienciaDosDados-3861-3865-3871/files/8933979/TA_PRECO_MEDICAMENTO.csv)
