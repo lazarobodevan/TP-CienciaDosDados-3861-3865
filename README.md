@@ -1,28 +1,29 @@
 # TP-CienciaDosDados-3861-3865-3871
-<p> Lázaro Bodevan,  Igor Lucas e LArissa Isabelle. </p>
+<p> Lázaro Bodevan,  Igor Lucas e Larissa Isabelle. </p>
 <p>Tema escolhido: Saúde/Medicamentos.</p>
 
 <p>Perguntas:
-<p>1- Qual país região possui mais filmes cadastrados na IMDb?</p>
-<p>2- Quais as 3 línguas mais presentes nos filmes?</p>
-<p>3- Qual a língua menos presente nos filmes?</p>
-<p>4- Quantos filmes foram lançados no ano de 2020?</p>
-<p>5- Em relação aos lançamentos de 2019, qual a porcentagem de alteração em 2021 (considerando a pandemia)?</p>
-<p>6- Quais as 3 profissões mais frequentes em diretores?</p>
-<p>7- Qual a média da quantidade de filmes lançados nos últimos 10 anos?</p>
-<p>8- Qual o gênero de filme mais frequente em cada região?</p>
-<p>10- Em relação a 2019, em 2020 pode ter havido relação entre a pandemia e o a quantidade de filmes de animação lançados?</p>
-<p>11- Qual a média das idades de pessoas envolvidas no cinema?</p>
-<p>12- Quantas pessoas menores de idade estiveram relacionadas a produções nos últimos 3 anos?</p>
-<p>13- Qual a idade mais frequente na produção de cinema?</p>
-<p>14- Quantas pessoas são diretores e roteiristas (simultaneamente)?</p>
-<p>15- Existe alguma relação entre a antiga profissão do roteirista/diretor com o tipo de filme lançado?</p>
-<p>16- Em média, para produções feitas por diretores e roteiristas (simultaneamente) qual o desvio padrão sobre o tempo de duração das obras?</p>
-<p>17- Qual o roteirista/diretor mais influente nos últimos 20 anos?</p>
-<p>18- Qual a variação de produções do tipo "Festival" entre 2018 e 2020? Houve queda? Se sim, pode ter influência da pandemia?</p>
-<p>19- Qual a média de produções cuja língua não é inglês?</p>
-<p>20- Qual país produz maior quantidade de filmes com classificação indicativa para adultos? E o que menos produz?</p>
+<p>1- Quais os nomes dos remédios autorizados no Brasil?</p>
+<p>2- Qual a quantidade de remédios fornecidos por laboratório?</p>
+<p>3- Qual laboratório possui maior quantidade de remédios autorizados?</p>
+<p>4- Qual a quantidade de remédios por tipo de tarja?</p>
+<p>5- Qual a média do preço ao consumidor em cada estado do sudeste (MG/SP 18%; RJ 20%; ES 17%)?</p>
+<p>6- Qual a média de preço de fábrica dos medicamentos tarja vermelha?</p>
+<p>7- Qual a média de preço de fábrica dos medicamentos tarja preta?</p>
+<p>8- Qual a quantidade de medicamentos com PIS/CONFIS positiva e negativa?</p>
+<p>10- Qual laboratório possui a lista de concessão de crédito tributário com mais medicamentos em positivo?</p>
+<p>11- Qual laboratório possui a lista de concessão de crédito tributário com mais medicamentos em negativo?</p>
+<p>12- Qual a porcentagem de remédios que possuem e não possuem restrição hospitalar?</p>
+<p>13- Em 2020, quais os 3 medicamentos mais comercializados?</p>
+<p>14- Qual a frequência de status dos medicamentos?</p>
+<p>15- Qual a média de preço de fábrica sem imposto dos antidepressivos?</p>
+<p>16- Qual a diferença média de preço de fábrica entre antidepressivos e antipsicóticos? E ao consumidor?</p>
+<p>17- Quais vacinas foram comercializadas em 2020</p>
+<p>18- O quão disperso estão os dados do valor de fabricação e os valores de preço máximo ao consumidor (0% ICMS)?</p>
+<p>19- Qual seria a média do preço de fabrica dos medicamentos de com tarja de venda livre(que não precisam de receita)?</p>
+<p>20- Qual tarja possui a maior frequência na base de dados?</p>
 
 <p> Link de Referência: https://dados.gov.br/organization/1a04b59b-c243-40d8-95f8-5cf3e10e4aea?tags=Medicamento </p>
-[DADOS_ABERTOS_MEDICAMENTOS.csv](https://github.com/lazarobodevan/TP-CienciaDosDados-3861-3865-3871/files/8933978/DADOS_ABERTOS_MEDICAMENTOS.csv)
-[TA_PRECO_MEDICAMENTO.csv](https://github.com/lazarobodevan/TP-CienciaDosDados-3861-3865-3871/files/8933979/TA_PRECO_MEDICAMENTO.csv)
+<br/>
+[DADOS_ABERTOS_MEDICAMENTOS.csv](https://github.com/lazarobodevan/TP-CienciaDosDados-3861-3865-3871/files/8933978/DADOS_ABERTOS_MEDICAMENTOS.csv)<br/>
+[TA_PRECO_MEDICAMENTO.csv](https://github.com/lazarobodevan/TP-CienciaDosDados-3861-3865-3871/files/8933979/TA_PRECO_MEDICAMENTO.csv)<br/>
