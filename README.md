@@ -1,5 +1,5 @@
-# TP-CienciaDosDados-3861-3865-3871
-<p> Lázaro Bodevan,  Igor Lucas e Larissa Isabelle. </p>
+# TP-CienciaDosDados-3861-3865
+<p> Lázaro Bodevan,  Igor Lucas </p>
 <p>Tema escolhido: Saúde/Medicamentos.</p>
 
 <p>Perguntas:
@@ -18,7 +18,7 @@
 <p>13- Em 2020, quais os 3 medicamentos mais comercializados?</p>
 <p>14- Qual a frequência de status dos medicamentos?</p>
 <p>15- Qual a média de preço de fábrica sem imposto dos antidepressivos?</p>
-<p>16- Qual a diferença média de preço de fábrica entre antidepressivos e antipsicóticos? E ao consumidor?</p>
+<p>16- Qual a diferença média de preço de fábrica entre antidepressivos e antipsicóticos?</p>
 <p>17- Quais vacinas foram comercializadas em 2020</p>
 <p>18- O quão disperso estão os dados do valor de fabricação e os valores de preço máximo ao consumidor (0% ICMS)?</p>
 <p>19- Qual seria a média do preço de fabrica dos medicamentos de com tarja de venda livre(que não precisam de receita)?</p>
