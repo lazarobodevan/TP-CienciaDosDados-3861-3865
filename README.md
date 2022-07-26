@@ -16,7 +16,7 @@
 <p>11- Qual laboratório possui a lista de concessão de crédito tributário com mais medicamentos em negativo?</p>
 <p>12- Qual a porcentagem de remédios que possuem e não possuem restrição hospitalar?</p>
 <p>13- Em 2020, quais os 3 medicamentos mais comercializados?</p>
-<p>14- Qual a frequência de status dos medicamentos?</p>
+<p>14- Qual a porcentagem de medicamentos foi comercializada em 2020?</p>
 <p>15- Qual a média de preço de fábrica sem imposto dos antidepressivos?</p>
 <p>16- Qual a diferença média de preço de fábrica entre antidepressivos e antipsicóticos?</p>
 <p>17- Quais vacinas foram comercializadas em 2020</p>
