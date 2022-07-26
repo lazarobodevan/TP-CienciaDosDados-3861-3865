@@ -3,7 +3,7 @@
 <p>Tema escolhido: Saúde/Medicamentos.</p>
 
 <p>Perguntas:
-<p>1 - Qual a quantididade de remédios autorizados no Brasil?</p>
+<p>1 - Qual a quantidade de remédios autorizados no Brasil?</p>
 <p>2- Qual a quantidade de remédios fornecidos por laboratório?</p>
 <p>3- Qual laboratório possui maior quantidade de remédios autorizados?</p>
 <p>4- Qual a quantidade de remédios por tipo de tarja?</p>
